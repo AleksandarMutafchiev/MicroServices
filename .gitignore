@@ -1,8 +1,0 @@
-# Project exclude paths
-/.gradle/
-/customer/build/
-/customer/build/classes/java/main/
-/eureka-server/build/
-/eureka-server/build/classes/java/main/
-/fraud/build/
-/fraud/build/classes/java/main/
