@@ -1,0 +1,23 @@
+server:
+  port: 8761
+spring:
+  application:
+    name: eureka-server
+eureka:
+  client:
+    fetch-regestry: false
+    register-with-eureka: false
+
+#  datasource:
+#    url: 'jdbc:postgresql://localhost:5432/customer'
+#    username: 'postgres'
+#    password: 'Sandanskii1995*'
+#    jpa:
+#      properties:
+#        hibernate:
+#          dialect: org.hibernate.dialect.PostgreSQLDialect
+#          format_sql: 'true'
+#          non_contextual_creation: 'true'
+#      hibernate:
+#        ddl-auto: create-drop
+#        show-sql: true
